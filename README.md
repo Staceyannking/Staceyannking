@@ -100,8 +100,10 @@ Hi, I’m **Staceyann King**, a New York–based software developer and computer
 
 `HTML` · `CSS` · `JavaScript`
 
-- Designed a personal portfolio to showcase my development experience, projects, and technical growth.
-- [View repository](https://github.com/Staceyannking/staceyann_portfolio)
+- Designed and developed a responsive portfolio showcasing my professional experience, technical skills, and software projects.
+
+🌐 [View my live portfolio](https://staceyann-king-portfolio.netlify.app/)  
+💻 [View the source code](https://github.com/Staceyannking/staceyann_portfolio)
 
 ### 🎬 Celebrity Name Chain
 
