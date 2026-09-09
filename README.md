@@ -121,6 +121,11 @@ Hi, I’m **Staceyann King**, a New York–based software developer and computer
 
 Completed hands-on work in full-stack development, data science, Python, R, and cybersecurity while collaborating on technical projects.
 
+### Sales Development Representative Fellow · SV Academy
+**June 2026**
+
+Completed intensive technology-sales training in prospecting, cold outreach, lead qualification, objection handling, discovery calls, and pipeline management while completing practical sales projects.
+
 ### IT Help Desk Intern · NYC Department of Social Services/Human Resources Administration
 **March 2025 – April 2025**
 
@@ -145,6 +150,7 @@ Completed an intensive software engineering fellowship focused on HTML, CSS, Jav
 | 🎓 | **CUNY City Tech** — Computer Science and Applied Mathematics |
 | 💻 | **The Marcy Lab School** — Software Engineering Fellowship |
 | 🌷 | **NYC Tech Talent Pipeline** — Software Development Residency |
+| 📈 | **SV Academy** — Sales Development Representative Program |
 
 ---
 ## 🌷 My GitHub Journey
