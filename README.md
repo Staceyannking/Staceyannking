@@ -129,7 +129,7 @@ Provided technical support to users, troubleshot hardware and software issues, d
 Developed interactive frontend experiences using Svelte, JavaScript, Three.js, GSAP, REST APIs, and DatoCMS.
 
 ### Software Engineering Fellow · The Marcy Lab School
-**September 2023 – [Completion Month and Year]**
+**September 2023**
 
 Completed an intensive software engineering fellowship focused on HTML, CSS, JavaScript, React, Node.js, SQL, AWS, and collaborative full-stack development.
 
