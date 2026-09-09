@@ -7,8 +7,9 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/Staceyannking/staceyann_portfolio">
-    <img src="https://img.shields.io/badge/Portfolio-FF4FA3?style=for-the-badge&logo=githubpages&logoColor=white" alt="Portfolio" />
+  <a href="https://staceyann-king-portfolio.netlify.app/">
+  <img src="https://img.shields.io/badge/Portfolio-FF4FA3?style=for-the-badge&logo=netlify&logoColor=white" alt="Staceyann King's Portfolio" />
+</a>
   </a>
   <a href="https://github.com/Staceyannking?tab=repositories">
     <img src="https://img.shields.io/badge/My_Projects-FF85B7?style=for-the-badge&logo=github&logoColor=white" alt="Projects" />
