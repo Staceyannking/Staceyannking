@@ -25,7 +25,7 @@ Hi, I’m **Staceyann King**, a New York–based software developer and computer
 - 🎓 Studying **Computer Science and Applied Mathematics** at CUNY City Tech
 - 💻 Building responsive full-stack applications and interactive user experiences
 - 📊 Exploring **data science with Python and R**
-- 🔐 Growing my knowledge of **cybersecurity**
+- 🔐 Growing my knowledge of **Data Science**
 - 🌱 Currently strengthening my data structures, algorithms, and cloud skills
 - 💖 I love turning creative ideas into useful, welcoming digital experiences
 
