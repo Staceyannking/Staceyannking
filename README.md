@@ -86,14 +86,14 @@ Hi, I’m **Staceyann King**, a New York–based software developer and computer
 
 `Svelte` · `JavaScript` · `Three.js` · `GSAP` · `DatoCMS` · `REST APIs`
 
-- Contributed frontend development work to the OddCommon website, a **2025 Webby Award Winner for Best Practices**.
+- Contributed frontend development work to the OddCommon website, recognized as a **2025 Webby Winner for Best Practices** and a **Best Home Page nominee**.
 - Developed interactive features and animations using JavaScript, Three.js, and GSAP.
 - Integrated REST APIs to display content dynamically from DatoCMS.
 - Debugged frontend issues and improved website performance.
 - Collaborated with developers using Git and GitHub.
 
-🌐 [View the live website](https://oddcommon.com)  
-🏆 [View the Webby Awards recognition](https://winners.webbyawards.com/winners/websites-and-mobile-sites/features-design/best-practices)
+🌐 [View the live OddCommon website](https://oddcommon.com)  
+🏆 [View the official Webby Awards recognition](https://winners.webbyawards.com/2025/websites-and-mobile-sites/features-design/best-home-page/336323/oddcommon-website)
 
 ### 🌟 Personal Portfolio
 
