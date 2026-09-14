@@ -72,85 +72,49 @@ Hi, I’m **Staceyann King**, a New York–based software developer and computer
 
 ---
 
-## 💕 Featured Projects
+## 💕 Selected Work & Projects
+
+### 💻 OddCommon Website — Web Developer Internship
+
+`Svelte` · `JavaScript` · `Three.js` · `GSAP` · `DatoCMS` · `REST APIs`
+
+- During my internship, contributed frontend work to a website recognized as a **2025 Webby Winner for Best Practices** and **Best Home Page nominee**.
+- Built interactive features and animations, integrated CMS content through REST APIs, and improved frontend performance.
+
+🌐 [Live website](https://oddcommon.com) · 🏆 [Webby recognition](https://winners.webbyawards.com/2025/websites-and-mobile-sites/features-design/best-home-page/336323/oddcommon-website)
 
 ### 🎨 ArtStream — Artist Discovery & Events Platform
 
 `Ionic React` · `TypeScript` · `Tailwind CSS` · `React Router`
 
-- Built a full-stack platform where artists can showcase their work and users can discover events.
-- Developed reusable RSVP, volunteer, and event-creation modals.
-- Created artist profiles, event listings, filtering, and responsive navigation.
-- Collaborated with a team using Git and GitHub and presented the completed capstone.
-
-### 💻 OddCommon Website
-
-`Svelte` · `JavaScript` · `Three.js` · `GSAP` · `DatoCMS` · `REST APIs`
-
-- Contributed frontend development work to the OddCommon website, recognized as a **2025 Webby Winner for Best Practices** and a **Best Home Page nominee**.
-- Developed interactive features and animations using JavaScript, Three.js, and GSAP.
-- Integrated REST APIs to display content dynamically from DatoCMS.
-- Debugged frontend issues and improved website performance.
-- Collaborated with developers using Git and GitHub.
-
-🌐 [View the live OddCommon website](https://oddcommon.com)  
-🏆 [View the official Webby Awards recognition](https://winners.webbyawards.com/2025/websites-and-mobile-sites/features-design/best-home-page/336323/oddcommon-website)
-
-### 🌟 Personal Portfolio
-
-`HTML` · `CSS` · `JavaScript`
-
-- Designed and developed a responsive portfolio showcasing my professional experience, technical skills, and software projects.
-
-🌐 [View my live portfolio](https://staceyann-king-portfolio.netlify.app/)  
-💻 [View the source code](https://github.com/Staceyannking/staceyann_portfolio)
+- Collaborated with a team to build a full-stack platform for discovering artists and events.
+- Developed artist profiles, event filtering, responsive navigation, and reusable RSVP, volunteer, and event-creation modals.
 
 ### 🎬 Celebrity Name Chain
 
 `TypeScript`
 
-- Built an interactive game that challenges users to connect celebrities through shared names.
-- [View repository](https://github.com/Staceyannking/Celebrity-Name-Chain)
+- Built an interactive game that challenges players to connect celebrities through shared names.
+
+💻 [View repository](https://github.com/Staceyannking/Celebrity-Name-Chain)
+
 
 ---
 
 ## ✨ Experience Highlights
 
-### Software Development Resident · NYC Tech Talent Pipeline
-**June 2026 – August 2026**
-
-Completed hands-on work in full-stack development, data science, Python, R, and cybersecurity while collaborating on technical projects.
-
-### Sales Development Representative Fellow · SV Academy
-**June 2026**
-
-Completed intensive technology-sales training in prospecting, cold outreach, lead qualification, objection handling, discovery calls, and pipeline management while completing practical sales projects.
-
-### IT Help Desk Intern · NYC Department of Social Services/Human Resources Administration
-**March 2025 – April 2025**
-
-Provided technical support to users, troubleshot hardware and software issues, documented service requests, and assisted with daily IT operations.
-
-### Web Developer Intern · OddCommon
-**January 2024 – July 2024**
-
-Developed interactive frontend experiences using Svelte, JavaScript, Three.js, GSAP, REST APIs, and DatoCMS.
-
-### Software Engineering Fellow · The Marcy Lab School
-**September 2023**
-
-Completed an intensive software engineering fellowship focused on HTML, CSS, JavaScript, React, Node.js, SQL, AWS, and collaborative full-stack development.
-
----
-
+- **Software Development Resident · NYC Tech Talent Pipeline** — Built full-stack and data projects using JavaScript, Python, and R while collaborating with a technical team.
+- **Web Developer Intern · OddCommon** — Developed interactive frontend experiences with Svelte, JavaScript, Three.js, GSAP, REST APIs, and DatoCMS.
+- **IT Help Desk Intern · NYC DSS/HRA** — Supported users, troubleshot hardware and software issues, and documented service requests.
+  
 ## 🎓 Education & Training
 
 | | Program |
 |---|---|
 | 🎓 | **CUNY City Tech** — Computer Science and Applied Mathematics |
-| 💻 | **The Marcy Lab School** — Software Engineering Fellowship |
 | 🌷 | **NYC Tech Talent Pipeline** — Software Development Residency |
 | 📈 | **SV Academy** — Sales Development Representative Program |
+| 💻 | **The Marcy Lab School** — Software Engineering Fellowship |
 
 ---
 ## 🌷 My GitHub Journey
